@@ -139,8 +139,8 @@ public class JFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
         String camera = jTextField1.getText();
         String ip = null;
-        String test = "10.91.60.251";
-        String otaki = "10.93.8.81";
+        String test = "URL";
+        String otaki = "URL";
         
         if ("694".equals(camera)){                                              //otaki
             ip = otaki;
